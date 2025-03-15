@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideShare.BL", "RideShare.BL\RideShare.BL.csproj", "{BE218973-5DCB-4EC6-8AAD-1F963B8CBD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideShare.DAL", "RideShare.DAL\RideShare.DAL.csproj", "{A226DF28-593D-4F83-BA0C-14C5D18C4C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE218973-5DCB-4EC6-8AAD-1F963B8CBD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE218973-5DCB-4EC6-8AAD-1F963B8CBD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE218973-5DCB-4EC6-8AAD-1F963B8CBD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE218973-5DCB-4EC6-8AAD-1F963B8CBD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A226DF28-593D-4F83-BA0C-14C5D18C4C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A226DF28-593D-4F83-BA0C-14C5D18C4C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A226DF28-593D-4F83-BA0C-14C5D18C4C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A226DF28-593D-4F83-BA0C-14C5D18C4C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
